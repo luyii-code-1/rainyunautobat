@@ -7,7 +7,7 @@ set "url=https://api.v2.rainyun.com/user/reward/tasks"
 set "data={""task_name"": ""每日签到""}"
 curl -k -X POST "%url%" ^
 -H "x-api-key: #替换为你的API密钥#" ^
--H "User-Agent: Apifox/1.0.0 (https://apifox.com)" ^
+-H "User-Agent: curl" ^
 -H "Content-Type: application/json" ^
 -H "Accept: */*" ^
 -H "Cache-Control: no-cache" ^
