@@ -1,5 +1,9 @@
 # 雨云自动API签到脚本
 
+# 由于技术限制，次仓库近期暂无更新计划
+#
+你可以去[https://github.com/SerendipityR-2022/Rainyun-Qiandao](https://github.com/SerendipityR-2022/Rainyun-Qiandao)看看，这个仓库采用了同种技术思路实现并有这不错的成功率
+
 
 # 由于雨云新签到修改了验证策略，现有脚本失效
 # v2版本预计使用headlesschrome绕过腾讯人机验证，敬请期待
